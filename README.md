@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Dwiky Rezza 👋
 
-<!--
-**DwikyRezza/DwikyRezza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Technology student interested in software development, mobile applications, databases, IoT, PLC, and industrial automation.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Information Technology Student
+- 📱 Building mobile apps with Flutter
+- 🌐 Exploring IoT systems and device monitoring
+- ⚙️ Learning PLC, electrical control systems, and automation
+- 🗄️ Interested in PostgreSQL, Firebase, and Supabase
+- 💼 Currently building CoreBusiness, a business operations and finance management app
+
+## 🛠️ Tech Stack
+
+- Flutter & Dart
+- Firebase
+- Supabase
+- PostgreSQL
+- Python
+- HTML, CSS, JavaScript
+- IoT
+- PLC
+- Git & GitHub
+
+## 📌 Featured Projects
+
+### CoreBusiness
+A business operations and finance management app for UMKM, including transactions, wallets, analytics, inventory, catalog, and team management.
+
+### IoT Monitoring System
+A system concept for monitoring sensors, devices, and automation data through connected dashboards.
+
+### PLC & Automation Learning
+A learning project focused on electrical control systems, relay logic, motor control, wiring, and PLC-based automation concepts.
+
+## 📫 Connect With Me
+
+- GitHub: github.com/DwikyRezza
+- LinkedIn: isi-link-linkedin-kamu
