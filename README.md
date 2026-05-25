@@ -37,4 +37,3 @@ A learning project focused on electrical control systems, relay logic, motor con
 ## 📫 Connect With Me
 
 - GitHub: github.com/DwikyRezza
-- LinkedIn: isi-link-linkedin-kamu
